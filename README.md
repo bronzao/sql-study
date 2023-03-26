@@ -1,7 +1,5 @@
 # sql-study
 
-esse é meu primeiro commit
-
 ## git commands
 
 - git status: mostra as modificações do repositório local em relação a mesma branch do repositório do servidor.
